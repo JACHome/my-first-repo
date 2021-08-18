@@ -2,7 +2,7 @@
 
 ## Geography
 
-I live near *Deventer* in The Netherlands
+I live near **Deventer** in The Netherlands
 
 ## Background
 
@@ -10,7 +10,7 @@ Electrical engineering study and 30 years in telecoms architecture
 
 ## Purpose here
 
-Doing the *unix workbench* course with github intro
+Doing the **unix workbench** course with github intro
 
 ## Contact
 
